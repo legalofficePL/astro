@@ -1,2 +1,2 @@
 # astro
-remonty i budowy
+usługi budowlano-remontowe
